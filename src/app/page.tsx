@@ -55,7 +55,7 @@ export default function Home() {
             Välkommen till Folkets Hus
           </h1>
           <p className="text-stone-300 text-lg max-w-xl mb-10 leading-relaxed">
-            Vi erbjuder lokaler för konferenser, fester, möten och evenemang —
+            Vi erbjuder lokaler för konferenser, fester, möten och evenemang -
             flexibla lösningar för både företag och privatpersoner.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
@@ -116,7 +116,7 @@ export default function Home() {
             </p>
             <p className="text-stone-600 leading-relaxed">
               Vi har flera lokaler i olika storlekar och kan anpassa oss efter
-              just dina behov. Tveka inte att höra av dig — vi hjälper dig hitta
+              just dina behov. Tveka inte att höra av dig - vi hjälper dig hitta
               rätt upplägg.
             </p>
           </div>
@@ -142,7 +142,7 @@ export default function Home() {
               },
               {
                 name: "Stora salen",
-                desc: "Rymlig sal för större sällskap — perfekt för fester, dans och kulturarrangemang.",
+                desc: "Rymlig sal för större sällskap - perfekt för fester, dans och kulturarrangemang.",
               },
               {
                 name: "Mötesrum",
@@ -199,7 +199,7 @@ export default function Home() {
             <p className="text-stone-500 text-sm mb-4">Catering-partner</p>
             <p className="text-stone-600 text-sm leading-relaxed mb-4">
               Restaurang Ban Thai samarbetar med Folkets Hus och kan ordna mat
-              och dryck till er konferens eller fest — från kaffe och smörgås
+              och dryck till er konferens eller fest - från kaffe och smörgås
               till festmåltider. Fullständiga serveringstillstånd.
             </p>
             <p className="text-stone-600 text-sm">
