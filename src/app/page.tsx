@@ -1,7 +1,5 @@
 "use client";
 
-// Ska inte bygga den med ai sen (jo självklart vissa grejer och snygga till det t.ex), vill smidigt bara lära mig sanity här nu så jag vet hur jag ska bygga det.
-
 export default function Home() {
   return (
     <div className="min-h-screen bg-stone-50 text-stone-800 font-sans">
